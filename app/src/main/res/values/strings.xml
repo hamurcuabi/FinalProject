@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FinalProject</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="signOut">Çıkış Yap</string>
+    <string name="profil_setting">Hesap Ayarları</string>
+    <string name="chat_rooms">Sohbet Odaları</string>
+    <string name="bilgilendirme"><u>Notice<b>Me</b></u>\'ye Hoş Geldiniz!
+        Bu Uygulamadaki amacımız Üniversitemizdeki kulüpleri ve grupları bir arada toplayarak
+        basit ve kullanışlı bir platform oluşturmak.Bu platformda adminler çeşitli odalar
+        oluşturabilirken kullanıcılar ise kayıtlı olduğu odalarla ilgili  bildirimler
+        alabilecekler aynı zamanda bildirimlere cevap verebilecekler.<b>BU ARADA
+            <u>BİLGİLERİNİZİ SATMAYACAĞIZ</u> SÖZ VERİYORUZ</b></string>
+    <string name="duyurucu">Notice<i>Me</i></string>
+</resources>

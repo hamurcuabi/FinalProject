@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/signOutMenu" android:title="@string/signOut"></item>
+    <item android:id="@+id/profilMenu" android:title="@string/profil_setting"></item>
+    <item android:id="@+id/chatRoom" android:title="@string/chat_rooms"></item>
+</menu>
